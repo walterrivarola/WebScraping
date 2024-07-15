@@ -1,0 +1,7 @@
+python3==3.10
+uvicorn
+fastapi
+pydantic
+sqlalchemy
+requests
+beautifulsoup4

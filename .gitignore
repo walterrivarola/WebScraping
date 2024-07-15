@@ -1,0 +1,5 @@
+venv
+main2.py
+schemas.py
+.idea/
+__pycache__/
